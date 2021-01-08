@@ -8,5 +8,5 @@ The file contains a long data string with transaction data, the data is then cle
 ## making-the-menus.py project
 The project contains various operations involving Python classes.
 
-## scrabble.py project
+## scrabble-game.py project
 I use loops and functions to create scrabble game rules and calculate game results.
